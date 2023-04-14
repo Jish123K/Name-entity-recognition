@@ -1,0 +1,21 @@
+{
+
+  "name": "Named Entity Recognition",
+
+  "description": "A software that performs Named Entity Recognition",
+
+  "version": "1.0.0",
+
+  "author": "Bard",
+
+  "license": "MIT",
+
+  "dependencies": {},
+
+  "files": [
+
+    "ner.py"
+
+  ]
+
+}
